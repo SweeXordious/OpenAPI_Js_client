@@ -42,4 +42,4 @@ npm run build
 ```
 
 #### Interact with the client
-Write some JS code similar to the what is in `index.js` in this repository.
+Write some JS code similar to the what is in `index.js` in this repository. These ones are for the `Web3j-OpenAPI-sample-project`.
