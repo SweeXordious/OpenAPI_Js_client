@@ -38,7 +38,7 @@ function callHelloMethod(helloWorldMethods, contractAddress) {
 }
 function sayItMethod(sayItParameters, helloWorldMethods, contractAddress) {
     let opts = {};
-    opts['sayItParameters'] = sayItParameters
+    opts['sayItParameters'] = sayItParameters;
     return new Promise((resolve, reject) => {
         helloWorldMethods.sayIt(
             contractAddress,
